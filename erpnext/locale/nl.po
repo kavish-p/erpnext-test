@@ -38252,7 +38252,7 @@ msgstr ""
 
 #. Title of the Module Onboarding 'Home'
 #: setup/module_onboarding/home/home.json
-msgid "Let's begin your journey with ERPNext"
+msgid "Let's begin your journey with KavishNext"
 msgstr ""
 
 #. Label of an action in the Onboarding Step 'Purchase an Asset'
